@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "labaoop1", "labaoop1\labaoop1.vcxproj", "{936158C9-618E-4812-8033-76B2DD3D3595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936158C9-618E-4812-8033-76B2DD3D3595}.Debug|x64.ActiveCfg = Debug|x64
+		{936158C9-618E-4812-8033-76B2DD3D3595}.Debug|x64.Build.0 = Debug|x64
+		{936158C9-618E-4812-8033-76B2DD3D3595}.Debug|x86.ActiveCfg = Debug|Win32
+		{936158C9-618E-4812-8033-76B2DD3D3595}.Debug|x86.Build.0 = Debug|Win32
+		{936158C9-618E-4812-8033-76B2DD3D3595}.Release|x64.ActiveCfg = Release|x64
+		{936158C9-618E-4812-8033-76B2DD3D3595}.Release|x64.Build.0 = Release|x64
+		{936158C9-618E-4812-8033-76B2DD3D3595}.Release|x86.ActiveCfg = Release|Win32
+		{936158C9-618E-4812-8033-76B2DD3D3595}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67DF9382-0834-498F-886D-48123BC59577}
+	EndGlobalSection
+EndGlobal
