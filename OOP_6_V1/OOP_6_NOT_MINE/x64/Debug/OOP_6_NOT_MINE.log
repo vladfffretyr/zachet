@@ -1,0 +1,22 @@
+﻿  Circle.cpp
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Circle.cpp(17,33): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+  Figure.cpp
+  Line.cpp
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Line.cpp(7,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Line.cpp(8,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Line.cpp(9,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Line.cpp(10,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Line.cpp(17,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Line.cpp(18,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Line.cpp(19,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Line.cpp(20,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Polygon.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Polygon.cpp
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Polygon.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Polygon.cpp(14,20): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Polygon.cpp(15,20): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Polygon.cpp(27,20): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\beeve\Downloads\OOP_6_V1\OOP_6_NOT_MINE\Polygon.cpp(28,20): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+  Создание кода...
+  OOP_6_NOT_MINE.vcxproj -> C:\Users\beeve\Downloads\OOP_6_V1\x64\Debug\OOP_6_V1.exe
