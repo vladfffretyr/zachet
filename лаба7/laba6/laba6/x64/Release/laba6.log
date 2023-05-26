@@ -1,0 +1,20 @@
+﻿  laba6.cpp
+D:\мои лабы_семестр2\ООП\лаба7\laba6\laba6\laba6.cpp(196,20): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+D:\мои лабы_семестр2\ООП\лаба7\laba6\laba6\laba6.cpp(197,20): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+D:\мои лабы_семестр2\ООП\лаба7\laba6\laba6\laba6.cpp(206,24): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+D:\мои лабы_семестр2\ООП\лаба7\laba6\laba6\laba6.cpp(207,24): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+D:\мои лабы_семестр2\ООП\лаба7\laba6\laba6\laba6.cpp(238,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\мои лабы_семестр2\ООП\лаба7\laba6\laba6\laba6.cpp(239,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\мои лабы_семестр2\ООП\лаба7\laba6\laba6\laba6.cpp(240,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\мои лабы_семестр2\ООП\лаба7\laba6\laba6\laba6.cpp(241,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\мои лабы_семестр2\ООП\лаба7\laba6\laba6\laba6.cpp(247,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\мои лабы_семестр2\ООП\лаба7\laba6\laba6\laba6.cpp(248,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\мои лабы_семестр2\ООП\лаба7\laba6\laba6\laba6.cpp(249,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\мои лабы_семестр2\ООП\лаба7\laba6\laba6\laba6.cpp(250,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\мои лабы_семестр2\ООП\лаба7\laba6\laba6\laba6.cpp(283,28): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+  Source.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  laba6.vcxproj -> D:\мои лабы_семестр2\ООП\лаба7\laba6\x64\Release\laba6.exe
