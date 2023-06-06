@@ -1,0 +1,5 @@
+﻿  laba4.cpp
+E:\мои лабы_семестр2\laba4\laba4\laba4.cpp(97,53): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\мои лабы_семестр2\laba4\laba4\laba4.cpp(198,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\мои лабы_семестр2\laba4\laba4\laba4.cpp(180): warning C4715: check: значение возвращается не при всех путях выполнения
+  laba4.vcxproj -> E:\мои лабы_семестр2\laba4\x64\Debug\laba4.exe
